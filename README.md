@@ -4,7 +4,7 @@ Year: 2022
 Course: VHDL  
 HDL: VHDL  
 Protocol: SPI ACCESSIBLE FEATURES   
-Device: Differential SAR ADC
+Device: ADC
 ****
 Expected Tasks:
 
