@@ -1,0 +1,28 @@
+Command line:
+   spi_3wire_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  4004
+
+Wed Jan 25 22:39:15 2023
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5155.14 Meg
+
+ Total Signals          : 24
+ Total Nets             : 150
+ Total Signal Drivers   : 18
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 10
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 635
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5155.14 Meg
+
+Wed Jan 25 22:39:25 2023
+

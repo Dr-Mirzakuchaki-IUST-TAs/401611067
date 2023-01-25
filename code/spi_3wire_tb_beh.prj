@@ -1,0 +1,2 @@
+vhdl work "spi_3wire.vhd"
+vhdl work "spi_3wire_tb.vhd"

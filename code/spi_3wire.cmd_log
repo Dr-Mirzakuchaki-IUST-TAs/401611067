@@ -1,0 +1,47 @@
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 spi_3wire.ngc spi_3wire.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o spi_3wire_map.ncd spi_3wire.ngd spi_3wire.pcf 
+par -w -intstyle ise -ol high -mt off spi_3wire_map.ncd spi_3wire.ncd spi_3wire.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml spi_3wire.twx spi_3wire.ncd -o spi_3wire.twr spi_3wire.pcf 
+bitgen -intstyle ise -f spi_3wire.ut spi_3wire.ncd 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 spi_3wire.ngc spi_3wire.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o spi_3wire_map.ncd spi_3wire.ngd spi_3wire.pcf 
+par -w -intstyle ise -ol high -mt off spi_3wire_map.ncd spi_3wire.ncd spi_3wire.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml spi_3wire.twx spi_3wire.ncd -o spi_3wire.twr spi_3wire.pcf 
+bitgen -intstyle ise -f spi_3wire.ut spi_3wire.ncd 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 spi_3wire.ngc spi_3wire.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o spi_3wire_map.ncd spi_3wire.ngd spi_3wire.pcf 
+par -w -intstyle ise -ol high -mt off spi_3wire_map.ncd spi_3wire.ncd spi_3wire.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml spi_3wire.twx spi_3wire.ncd -o spi_3wire.twr spi_3wire.pcf 
+bitgen -intstyle ise -f spi_3wire.ut spi_3wire.ncd 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 spi_3wire.ngc spi_3wire.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o spi_3wire_map.ncd spi_3wire.ngd spi_3wire.pcf 
+par -w -intstyle ise -ol high -mt off spi_3wire_map.ncd spi_3wire.ncd spi_3wire.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml spi_3wire.twx spi_3wire.ncd -o spi_3wire.twr spi_3wire.pcf 
+xst -intstyle ise -ifn "E:/project/VHDL/vhdl_project/spi_3wire.xst" -ofn "E:/project/VHDL/vhdl_project/spi_3wire.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 spi_3wire.ngc spi_3wire.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o spi_3wire_map.ncd spi_3wire.ngd spi_3wire.pcf 
+par -w -intstyle ise -ol high -mt off spi_3wire_map.ncd spi_3wire.ncd spi_3wire.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml spi_3wire.twx spi_3wire.ncd -o spi_3wire.twr spi_3wire.pcf 
+bitgen -intstyle ise -f spi_3wire.ut spi_3wire.ncd 
