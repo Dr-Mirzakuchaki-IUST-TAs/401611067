@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/project/VHDL/vhdl_project/spi_3wire_tb_isim_beh.exe" -prj "E:/project/VHDL/vhdl_project/spi_3wire_tb_beh.prj" "work.spi_3wire_tb" 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\project\VHDL\vhdl_project\spi_3wire.ncd
+OUTFILE=E:\project\VHDL\vhdl_project\spi_3wire.bit
+FAMILY=Spartan6
+PART=xc6slx4-3tqg144
+WORKINGDIR=E:\project\VHDL\vhdl_project
+LICENSE=WebPack
+USER_INFO=__0_0_0
